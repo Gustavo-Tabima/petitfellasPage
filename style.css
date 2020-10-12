@@ -1,0 +1,50 @@
+/**Aquí van los estilos pai**/
+
+body{
+    background-color:#000000
+
+}
+h1{
+    color:#d19200;
+}
+p{
+    text-align: justify;
+    color: honeydew;
+    font-family: Tahoma;
+   
+}
+ol{
+    color: honeydew;
+}
+.integrantes{
+    font-weight: bolder;
+    color:gray;
+}
+#titulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    outline-color: #d19200;    
+}
+.banner{
+    position: fixed;
+    top:9px;
+    left:100px;
+}
+div{
+    width: 30%;
+    height: fit-content;
+    margin: 5px;
+    display: inline-block;
+    position: relative;
+    vertical-align: text-top;
+}
+.listas{
+    display: inline-block;
+    width: fit-content;
+    font-family: serif;
+
+}
+.imagen{
+    width: 480px;
+    text-align: center;
+    height: fit-content;
+}
